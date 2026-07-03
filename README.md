@@ -10,6 +10,8 @@ I am building public evidence around practical support work: diagnosing broken d
 - CV PDF: https://mohamedsenator.vercel.app/Mohamed_Senator_CV_2026.pdf
 - Service menu PDF: https://mohamedsenator.vercel.app/Mohamed_Senator_Service_Menu_2026.pdf
 - Proof repo: https://github.com/s3nafps/cloudops-rescue-kit
+- Sample incident report: https://github.com/s3nafps/cloudops-rescue-kit/blob/main/examples/sample-incident-report.md
+- Sample handover note: https://github.com/s3nafps/cloudops-rescue-kit/blob/main/examples/sample-handover-note.md
 - Career playbook: https://github.com/s3nafps/cloud-devops-support-playbook
 
 If you want the fastest view of how I work, open the service menu, then CloudOps Rescue Kit, then the CV.
@@ -41,7 +43,14 @@ What it shows:
 - Uptime Kuma monitoring setup,
 - screenshot checklist,
 - incident report and client handover templates,
+- public sample incident report,
+- public sample handover note,
 - reproducible demo lab for publishable evidence.
+
+Direct samples:
+
+- Incident report: https://github.com/s3nafps/cloudops-rescue-kit/blob/main/examples/sample-incident-report.md
+- Handover note: https://github.com/s3nafps/cloudops-rescue-kit/blob/main/examples/sample-handover-note.md
 
 ### Cloud/DevOps Support Career Playbook
 

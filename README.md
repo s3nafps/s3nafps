@@ -10,6 +10,7 @@ I am building public evidence around practical support work: diagnosing broken d
 - CV PDF: https://mohamedsenator.vercel.app/Mohamed_Senator_CV_2026.pdf
 - Service menu PDF: https://mohamedsenator.vercel.app/Mohamed_Senator_Service_Menu_2026.pdf
 - Proof repo: https://github.com/s3nafps/cloudops-rescue-kit
+- Deliverables case study: https://github.com/s3nafps/cloudops-rescue-kit/blob/main/docs/case-studies/sample-client-deliverables.md
 - Sample incident report: https://github.com/s3nafps/cloudops-rescue-kit/blob/main/examples/sample-incident-report.md
 - Sample handover note: https://github.com/s3nafps/cloudops-rescue-kit/blob/main/examples/sample-handover-note.md
 - Career playbook: https://github.com/s3nafps/cloud-devops-support-playbook
@@ -49,6 +50,7 @@ What it shows:
 
 Direct samples:
 
+- Deliverables pack: https://github.com/s3nafps/cloudops-rescue-kit/blob/main/docs/case-studies/sample-client-deliverables.md
 - Incident report: https://github.com/s3nafps/cloudops-rescue-kit/blob/main/examples/sample-incident-report.md
 - Handover note: https://github.com/s3nafps/cloudops-rescue-kit/blob/main/examples/sample-handover-note.md
 

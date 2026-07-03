@@ -4,6 +4,16 @@ Cloud / DevOps Support Engineer focused on Linux VPS operations, Docker deployme
 
 I am building public evidence around practical support work: diagnosing broken deployments, checking logs and health endpoints, creating backup/restore workflows, and documenting the result so another person can maintain the system.
 
+## Start Here
+
+- Portfolio: https://mohamedsenator.vercel.app
+- CV PDF: https://mohamedsenator.vercel.app/Mohamed_Senator_CV_2026.pdf
+- Service menu PDF: https://mohamedsenator.vercel.app/Mohamed_Senator_Service_Menu_2026.pdf
+- Proof repo: https://github.com/s3nafps/cloudops-rescue-kit
+- Career playbook: https://github.com/s3nafps/cloud-devops-support-playbook
+
+If you want the fastest view of how I work, open the service menu, then CloudOps Rescue Kit, then the CV.
+
 ## Current Focus
 
 - Linux VPS support and operational troubleshooting
@@ -54,6 +64,16 @@ Repository: https://github.com/s3nafps/cloud-devops-support-playbook
 - Linux/Application Support roles
 - Junior DevOps roles
 - Fixed-scope VPS/Docker support work
+
+## Fast Offer
+
+For side work, the current fixed-scope offers are:
+
+- VPS Docker Rescue Audit
+- Backup and Restore Safety Net
+- Monitoring and Handover Setup
+
+The public one-page menu is here: https://mohamedsenator.vercel.app/Mohamed_Senator_Service_Menu_2026.pdf
 
 ## Working Style
 

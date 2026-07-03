@@ -33,6 +33,12 @@ What it shows:
 - incident report and client handover templates,
 - reproducible demo lab for publishable evidence.
 
+### Cloud/DevOps Support Career Playbook
+
+Public execution pack for the non-code side of the move: CV positioning, LinkedIn copy, service packages, outreach scripts, job-search filters, and 30-day execution checklist.
+
+Repository: https://github.com/s3nafps/cloud-devops-support-playbook
+
 ## Other Infrastructure Projects
 
 - Portfolio: https://github.com/s3nafps/Portfolio

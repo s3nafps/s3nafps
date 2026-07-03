@@ -15,6 +15,8 @@ I am building public evidence around practical support work: diagnosing broken d
 
 ## Featured Project
 
+Portfolio site: https://mohamedsenator.vercel.app
+
 ### CloudOps Rescue Kit
 
 Practical VPS/Docker diagnostics, monitoring, backup, restore, and handover toolkit for Cloud/DevOps Support portfolio evidence.

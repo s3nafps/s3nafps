@@ -2,9 +2,9 @@
 
 Cloud / DevOps Support Engineer focused on Linux VPS operations, Docker deployments, monitoring, backups, troubleshooting, and clear handover documentation.
 
-I build public proof around practical support work: diagnosing broken deployments, checking logs and health endpoints, creating backup and restore workflows, and documenting the result so another engineer can take over cleanly.
+Public work here centers on practical support engineering: diagnosing broken deployments, checking logs and health endpoints, building backup and restore workflows, and documenting systems so they can be maintained cleanly.
 
-## Start Here
+## Links
 
 - Portfolio: https://mohamedsenator.vercel.app
 - CV PDF: https://mohamedsenator.vercel.app/Mohamed_Senator_CV_2026.pdf
@@ -12,9 +12,7 @@ I build public proof around practical support work: diagnosing broken deployment
 - Deliverables case study: https://github.com/s3nafps/cloudops-rescue-kit/blob/main/docs/case-studies/sample-client-deliverables.md
 - Career playbook: https://github.com/s3nafps/cloud-devops-support-playbook
 
-Fastest path: CloudOps Rescue Kit, deliverables pack, then CV.
-
-## Current Focus
+## Focus Areas
 
 - Linux VPS support and operational troubleshooting
 - Docker and Docker Compose deployments
@@ -40,7 +38,7 @@ Fastest path: CloudOps Rescue Kit, deliverables pack, then CV.
 - Sample incident report: https://github.com/s3nafps/cloudops-rescue-kit/blob/main/examples/sample-incident-report.md
 - Sample handover note: https://github.com/s3nafps/cloudops-rescue-kit/blob/main/examples/sample-handover-note.md
 
-## Open To
+## Roles Of Interest
 
 - Cloud Support Engineer roles
 - DevOps Support Engineer roles
@@ -56,4 +54,4 @@ Fastest path: CloudOps Rescue Kit, deliverables pack, then CV.
 - Monitoring status
 - Clear next actions
 
-No passwords, private keys, API tokens, or production `.env` files should be shared in chat, tickets, screenshots, or reports.
+Sensitive credentials, private keys, API tokens, and production `.env` files are excluded from public documentation, screenshots, and reports.

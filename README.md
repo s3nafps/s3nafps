@@ -8,12 +8,11 @@ I build public proof around practical support work: diagnosing broken deployment
 
 - Portfolio: https://mohamedsenator.vercel.app
 - CV PDF: https://mohamedsenator.vercel.app/Mohamed_Senator_CV_2026.pdf
-- Service menu PDF: https://mohamedsenator.vercel.app/Mohamed_Senator_Service_Menu_2026.pdf
 - CloudOps Rescue Kit: https://github.com/s3nafps/cloudops-rescue-kit
 - Deliverables case study: https://github.com/s3nafps/cloudops-rescue-kit/blob/main/docs/case-studies/sample-client-deliverables.md
 - Career playbook: https://github.com/s3nafps/cloud-devops-support-playbook
 
-Fastest path: service menu, CloudOps Rescue Kit, deliverables pack, then CV.
+Fastest path: CloudOps Rescue Kit, deliverables pack, then CV.
 
 ## Current Focus
 
@@ -29,8 +28,8 @@ Fastest path: service menu, CloudOps Rescue Kit, deliverables pack, then CV.
 | Repository | What it shows |
 | --- | --- |
 | [CloudOps Rescue Kit](https://github.com/s3nafps/cloudops-rescue-kit) | VPS and Docker diagnostics, backup and restore proof, monitoring setup, incident reports, and handover notes |
-| [cloud-devops-support-playbook](https://github.com/s3nafps/cloud-devops-support-playbook) | CV positioning, LinkedIn copy, service packages, job-search workflow, outreach scripts, and trackers |
-| [Portfolio](https://github.com/s3nafps/Portfolio) | Public portfolio site tying together infrastructure work, services, and proof assets |
+| [cloud-devops-support-playbook](https://github.com/s3nafps/cloud-devops-support-playbook) | CV positioning, LinkedIn copy, job-search workflow, outreach scripts, and trackers |
+| [Portfolio](https://github.com/s3nafps/Portfolio) | Public portfolio site tying together infrastructure work, proof assets, and project context |
 | [GCP-Kube-Vanguard](https://github.com/s3nafps/GCP-Kube-Vanguard) | Private GKE architecture with Terraform, Workload Identity, and CI/CD |
 | [GCP-Fortress-Architecture](https://github.com/s3nafps/GCP-Fortress-Architecture) | Private-only GCP web architecture with IAP-only SSH and CI security checks |
 | [AirGap-Auditor](https://github.com/s3nafps/AirGap-Auditor) | PowerShell auditing and compliance checks for Windows, AD, and PKI environments |
@@ -47,7 +46,6 @@ Fastest path: service menu, CloudOps Rescue Kit, deliverables pack, then CV.
 - DevOps Support Engineer roles
 - Linux or Application Support roles
 - Junior DevOps roles
-- Fixed-scope VPS and Docker support work
 
 ## Working Style
 
